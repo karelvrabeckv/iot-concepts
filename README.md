@@ -60,6 +60,7 @@
 * **dashcam** (pro nahravani zaznamu z auta; muze se hodit pri nehodach jako dukazni material; dat kameru dopredu i dozadu)
 * **roboticky lux** (pouze pro vhodne prostory)
 * **roboticka sekacka** (pouze pro vhodny teren)
+* **filtr na vodu** (pro snizeni obsahu chloru ve vode, neutralizaci tezkych kovu a snizeni poctu bakterii)
 
 ### mazlicci
 
